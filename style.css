@@ -3,11 +3,13 @@ td {
 }
 
 .small_image{
-  transform: rotate(400deg);
-  max-height: 200px;
-  height: auto;
+  transform: rotate(0deg);
+  width: 200px;
+  margin-right: 20px;
   margin-top: 20px;
-  flex: 0 1 auto;
+  flex: 0 0 0;
+  max-height: 400px;
+  height: auto;
 }
 
 body {
@@ -18,9 +20,6 @@ body {
   display: flex;
   margin: auto;
   justify-content: center;
-}
-
-
   padding: 20px;
 }
 
