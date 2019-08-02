@@ -1,0 +1,31 @@
+td {
+  padding-right: 25px;
+}
+
+.small_image{
+  transform: rotate(400deg);
+  max-height: 200px;
+  height: auto;
+  margin-top: 20px;
+  flex: 0 1 auto;
+}
+
+body {
+  background-color: pink;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+
+  padding: 20px;
+}
+
+a.big_bang {
+  background-color: pink;
+  padding: 10px;
+  border-radius: 20px;
+}
